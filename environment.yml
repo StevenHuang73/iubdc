@@ -7,8 +7,9 @@ dependencies:
   - pandas
   - numpy
   - scikit-learn
-  - xgboost
+  - py-xgboost-gpu
   - matplotlib
   - seaborn
   - jupyterlab
   - ipykernel
+  - shap
