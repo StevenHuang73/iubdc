@@ -1,2 +1,4 @@
 data/*
 !data/.gitkeep
+ml/models/*
+notebooks/check.ipynb
